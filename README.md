@@ -1,4 +1,4 @@
-# livedoor-news-5class-classification / livedoor-newsデータを用いたニュース・タイトルの5クラス判別問題
+# livedoor-newsデータを用いたニュース・タイトルの5クラス判別問題 / livedoor-newstitle-5class-classification 
 
 ## livedoor-newsデータを用いた5クラスの判別問題を 日本語専用BERTと多言語対応BERTでそれぞれ90%超の精度を達成
 
