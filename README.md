@@ -1,6 +1,7 @@
 # livedoor-news-5class-classification
 
 livedoor-newsデータを用いた5クラスの判別問題を multilingual-BERTで90%超の精度を達成
+Achieve more than 90% accuracy with multilingual-BERT for 5 class-classification problem using livedoor-news data
 
 BERT, or Bidirectional Encoder Representations from Transformers by Google, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 
