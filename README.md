@@ -6,7 +6,7 @@ Achieve more than 90% accuracy with multilingual-BERT for 5 class-classification
 
 BERT, or Bidirectional Encoder Representations from Transformers by Google, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 
-finetuned with data of livedoor news corpus (training 3153 samples, test 826 samples)
+finetuned with data of livedoor news corpus (training 3503 samples, test 826 samples)
 
 Evaluation results
 test_accuracy = 0.9281,
