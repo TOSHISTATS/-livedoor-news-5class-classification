@@ -1,4 +1,4 @@
-# livedoor-news-5class-classification
+# livedoor-news-5class-classification / livedoor-newsデータを用いたニュース・タイトルの5クラス判別問題
 
 ## livedoor-newsデータを用いた5クラスの判別問題を 日本語専用BERTと多言語対応BERTでそれぞれ90%超の精度を達成
 
@@ -9,7 +9,8 @@ BERT, or Bidirectional Encoder Representations from Transformers by Google, is a
 finetuned with data of livedoor news corpus (training 3503 samples, test 826 samples)
 
 Evaluation results
-test_accuracy = 0.9281,
+Japanese-BERT     : test_accuracy = 0.9406
+multilingual-BERT : test_accuracy = 0.9281
 
 
 
