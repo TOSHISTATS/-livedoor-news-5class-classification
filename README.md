@@ -10,7 +10,7 @@ finetuned with data of livedoor news corpus for 5 classes (training 3503 samples
 
 ### Evaluation results
 
-Japanese-BERT     : test_accuracy = 0.9406
+Japanese-BERT      : test_accuracy = 0.9406
 
 multilingual-BERT : test_accuracy = 0.9281
 
