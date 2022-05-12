@@ -23,9 +23,13 @@ multilingual-BERT : test_accuracy = 0.9281
 
 The academic paper by Google which describes BERT in detail and provides full results on a number of tasks can be found here: https://arxiv.org/abs/1810.04805.
 
+
 (1) livedoor news corpus https://www.rondhuit.com/download.html#ldcc   
 CC BY-ND 2.1 JP https://creativecommons.org/licenses/by-nd/2.1/jp/
 
+
+(2) Japanese-BERT is provided by Tohoku NLP Group, Tohoku University
+https://huggingface.co/cl-tohoku/bert-base-japanese-whole-word-masking
 
 
 This code is solely for educational purposes. The code cannot be used for investments or businesses in practice. Toshi Stats Co.,Ltd. and I do not accept any responsibility or liability for loss or damage occasioned to any person or property through using materials, instructions, methods, algorithm or ideas contained herein, or acting or refraining from acting as a result of such use. Toshi Stats Co.,Ltd. and I expressly disclaim all implied warranties, including merchantability or fitness for any particular purpose. There will be no duty on Toshi Stats Co.,Ltd. and me to correct any errors or defects in the codes and the software
