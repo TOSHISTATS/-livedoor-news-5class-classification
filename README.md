@@ -8,7 +8,7 @@ BERT, or Bidirectional Encoder Representations from Transformers by Google, is a
 
 finetuned with data of livedoor news corpus for 5 classes (training 3503 samples, test 826 samples)
 
-Evaluation results
+### Evaluation results
 
 Japanese-BERT     : test_accuracy = 0.9406
 
