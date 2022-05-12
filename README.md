@@ -18,7 +18,8 @@ test_accuracy = 0.9281,
 
 The academic paper by Google which describes BERT in detail and provides full results on a number of tasks can be found here: https://arxiv.org/abs/1810.04805.
 
-(1) livedoor news corpus CC BY-ND 2.1 JP https://creativecommons.org/licenses/by-nd/2.1/jp/
+(1) livedoor news corpus https://www.rondhuit.com/download.html#ldcc   
+CC BY-ND 2.1 JP https://creativecommons.org/licenses/by-nd/2.1/jp/
 
 
 
